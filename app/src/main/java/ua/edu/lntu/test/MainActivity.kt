@@ -45,5 +45,6 @@ fun MyApp()
             .padding(15.dp)
     ) {
         Text("Lol")
+        Text("kek")
     }
 }
